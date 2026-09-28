@@ -6,8 +6,7 @@ An interactive **Power BI dashboard** developed to analyze sales, revenue, profi
 
 ### 📊 Dashboard
 
-![Sales & Revenue Analysis Dashboard]
-(https://github.com/mandaneha/Sales-and-Revenue-Analysis-Dashboard/blob/main/Screenshot%202026-09-28%20065906.png)
+![Sales & Revenue Analysis Dashboard](https://github.com/mandaneha/Sales-and-Revenue-Analysis-Dashboard/blob/main/Screenshot%202026-09-28%20065906.png)
 
 ### 📈 Key Insights
 
