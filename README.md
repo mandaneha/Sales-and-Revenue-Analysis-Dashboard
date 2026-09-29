@@ -58,16 +58,6 @@ An interactive **Power BI dashboard** developed to analyze sales, revenue, profi
 * CSV
 * Data Analysis & Visualization
 
-### 📁 Files
-
-
-Sales-and-Revenue-Analysis-Dashboard/
-├── README.md
-├── Sales & Revenue Analysis.pbit
-├── Sales_Revenue_Analysis_Dataset.csv
-└── Screenshot 2026-09-28 065906.png
-
-
 ### ▶️ How to View
 
 1. Download the `.pbit` file.
