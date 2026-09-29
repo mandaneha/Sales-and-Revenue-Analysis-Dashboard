@@ -60,7 +60,7 @@ An interactive **Power BI dashboard** developed to analyze sales, revenue, profi
 
 ### 📁 Files
 
-```text
+
 Sales-and-Revenue-Analysis-Dashboard/
 ├── README.md
 ├── Sales & Revenue Analysis.pbit
